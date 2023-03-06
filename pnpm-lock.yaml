@@ -11,7 +11,9 @@ specifiers:
   astro: ^2.0.15
   eventsource-parser: ^0.1.0
   highlight.js: ^11.7.0
+  js-sha256: ^0.9.0
   katex: ^0.6.0
+  lodash: ^4.17.21
   markdown-it: ^13.0.1
   markdown-it-highlightjs: ^4.0.1
   markdown-it-katex: ^2.0.3
@@ -28,7 +30,13 @@ dependencies:
   astro: 2.0.15
   eventsource-parser: 0.1.0
   highlight.js: 11.7.0
+<<<<<<< HEAD
   katex: 0.6.0
+=======
+  js-sha256: 0.9.0
+  katex: 0.6.0
+  lodash: 4.17.21
+>>>>>>> upstream/main
   markdown-it: 13.0.1
   markdown-it-highlightjs: 4.0.1
   markdown-it-katex: 2.0.3
@@ -2171,6 +2179,13 @@ packages:
     hasBin: true
     dev: true
 
+<<<<<<< HEAD
+=======
+  /js-sha256/0.9.0:
+    resolution: {integrity: sha512-sga3MHh9sgQN2+pJ9VYZ+1LPwXOxuBJBA5nrR5/ofPfuiJBE2hnjsaN8se8JznOmGLN2p49Pe5U/ttafcs/apA==}
+    dev: false
+
+>>>>>>> upstream/main
   /js-tokens/4.0.0:
     resolution: {integrity: sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==}
     dev: false
@@ -2263,6 +2278,13 @@ packages:
     dependencies:
       p-locate: 5.0.0
 
+<<<<<<< HEAD
+=======
+  /lodash/4.17.21:
+    resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
+    dev: false
+
+>>>>>>> upstream/main
   /log-symbols/5.1.0:
     resolution: {integrity: sha512-l0x2DvrW294C9uDCoQe1VSU4gf529FkSZ6leBl4TiqZH/e+0R7hSfHQBNut2mNygDgHwvYHfFLn6Oxb3VWj2rA==}
     engines: {node: '>=12'}
